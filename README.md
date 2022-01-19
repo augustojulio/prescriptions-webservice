@@ -16,7 +16,7 @@ git clone https://github.com/augustojulio/prescriptions-webservice.git
 3. Activate the virtual env
 
 ```bash
-cd project_flask_webservice
+cd prescriptions-webservice
 source venv/bin/activate
 ```
 
